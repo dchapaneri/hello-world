@@ -1,2 +1,3 @@
 # hello-world
-Hello world in new repository
+Hello world,
+I am learning some of the cool technologies to work for new project.
